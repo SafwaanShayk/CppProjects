@@ -3,7 +3,6 @@
 #include <iomanip>
 using namespace std;
 
-////// MY CNIC SECOND LAST DIGIT = 2
 
 struct Satellite
 {
